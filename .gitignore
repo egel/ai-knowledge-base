@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+.docusaurus/
+.docusaurus-cache/
+
+# Generated
+.docusaurus/
+
+# Env / misc
+.env
+.env.local
+.DS_Store
+*.log

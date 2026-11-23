@@ -1,0 +1,11 @@
+/* Custom site CSS */
+
+:root {
+  --ifm-color-primary: #6c5ce7;
+  --ifm-color-primary-dark: #5b4bd1;
+  --ifm-color-primary-darker: #5247c5;
+  --ifm-color-primary-darkest: #433ba2;
+  --ifm-color-primary-light: #7d70ea;
+  --ifm-color-primary-lighter: #8579ed;
+  --ifm-color-primary-lightest: #a29af2;
+}
